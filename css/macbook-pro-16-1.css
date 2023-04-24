@@ -1,0 +1,106 @@
+/* screen - macbook-pro-16-1 */
+
+.macbook-pro-16-1 {
+  align-items: flex-start;
+  background-color: #00000099;
+  border: 1px none;
+  display: flex;
+  gap: 40px;
+  height: 1117px;
+  padding: 286px 167px;
+  width: 1728px;
+}
+
+.macbook-pro-16-1 .project {
+  align-items: flex-start;
+  background-color: var(--white-2);
+  border-radius: 30px;
+  display: flex;
+  height: 424px;
+  overflow: hidden;
+  width: 438px;
+}
+
+.macbook-pro-16-1 .overlap-group1 {
+  background-image: url(../img/image-151.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  flex-direction: column;
+  gap: 14px;
+  min-height: 424px;
+  padding: 23px 70px;
+  width: 438px;
+}
+
+.macbook-pro-16-1 .title {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 40px;
+  margin-right: 10.0px;
+  margin-top: 269px;
+  min-width: 124px;
+  white-space: nowrap;
+}
+
+.macbook-pro-16-1 .overlap-group {
+  background-color: var(--hit-pink);
+  border-radius: 20px;
+  height: 55px;
+  justify-content: flex-end;
+  min-width: 288px;
+  padding: 7px 115px;
+}
+
+.macbook-pro-16-1 .view {
+  letter-spacing: 0;
+  line-height: 40px;
+  white-space: nowrap;
+}
+
+.macbook-pro-16-1 .overlap-group1-1 {
+  align-items: flex-start;
+  background-image: url(../img/image-152.png);
+  padding: 27px 68px;
+}
+
+.macbook-pro-16-1 .project-2 {
+  align-self: center;
+  margin-right: 14.0px;
+  margin-top: 261px;
+}
+
+.macbook-pro-16-1 .overlap-group1-2 {
+  align-items: center;
+  background-image: url(../img/image-153@2x.png);
+  padding: 24px 0;
+}
+
+.macbook-pro-16-1 .project-3 {
+  margin-top: 267px;
+}
+
+.macbook-pro-16-1 .overlap {
+  align-items: flex-start;
+  display: flex;
+}
+
+.macbook-pro-16-1 .overlap-group1-3 {
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  min-height: 424px;
+  width: 438px;
+}
+
+.macbook-pro-16-1 .project-1 {
+  color: var(--white);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 40px;
+  min-width: 124px;
+  white-space: nowrap;
+}
