@@ -1,0 +1,33 @@
+:root { 
+  --black: #000000;
+  --cape-cod: #404040;
+  --janna: #f4eadc;
+  --navajo-white: #ffddad;
+  --ship-gray: #3a3c40;
+  --white: #ffffff;
+ 
+  --font-size-l: 30px;
+  --font-size-m: 24px;
+  --font-size-s: 16px;
+  --font-size-xl: 36px;
+  --font-size-xxl: 64px;
+ 
+  --font-family-kumbh_sans: "Kumbh Sans", Helvetica;
+  --font-family-mulish: "Mulish", Helvetica;
+  --font-family-neuton: "Neuton", Helvetica;
+}
+.kumbhsans-normal-white-24px {
+  color: var(--white);
+  font-family: var(--font-family-kumbh_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.mulish-medium-ship-gray-36px {
+  color: var(--ship-gray);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+}

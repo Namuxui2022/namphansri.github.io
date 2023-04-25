@@ -1,2 +1,0 @@
-# namphansri.github.io
-portfolio
